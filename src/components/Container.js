@@ -14,7 +14,7 @@ export default class Container extends Component {
             <Menu />
           </Col>
           <Col xs={12} sm={10}>
-            <Content title={"Welcome!"} />
+            <Content title={"Transactions"} />
           </Col>
         </Row>
       </Grid>
